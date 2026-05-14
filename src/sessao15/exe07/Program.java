@@ -3,6 +3,7 @@ package sessao15.exe07;
 import sessao15.exe07.entities.Produto;
 
 import java.io.*;
+import java.util.Scanner;
 
 public class Program {
     public static void main(String[] args) {
